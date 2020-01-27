@@ -1,2 +1,2 @@
 # testing
-My first Repository for RStudioin
+My first Repository for RStudio
